@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Nepali</h1>
-<h3 align="center">A passionate software engineer from Pokhara.</h3>
+<h3 align="center">A passionate Quality Assurance Engineer from Pokhara.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surajnepali&label=Profile%20views&color=0e75b6&style=flat" alt="surajnepali" /> </p>
 
